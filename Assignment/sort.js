@@ -85,4 +85,5 @@ function sort(value,index){
     let tmp = arr[index]; 
     arr[index] = arr[value];
     arr[value] = tmp;  
+    
 }
